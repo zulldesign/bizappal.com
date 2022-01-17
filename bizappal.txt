@@ -1,0 +1,87 @@
+
+
+Dear Valued Customer,
+
+
+
+Thank you for purchasing 'your own free hosting company'.
+
+Your companies domain name has been registered :
+
+bizappal.com
+
+Please look at the following url to see how to setup / remove the adverts on your websites:
+
+http://reseller.vista-panel.com/index.php/Changing_Adverts
+
+
+To log into your reseller control panel please use the following information:
+
+
+USER:            migam2u@gmail.com
+PASSWORD:        7qudf4fn
+RESELLER PANEL:  http://panel.myownfreehost.net
+
+
+To edit your home page and manage your home page account, please can you use the following information to log into your 'home page' vista panel:
+
+Control Panel Login:
+
+USER:             bizap_30830421
+PASSWORD:         7qudf4fn
+VISTAPANEL URL:   http://cpanel.bizappal.com
+
+Home Page FTP Account:
+
+FTP USER:             bizap_30830421
+FTP PASSWORD:         7qudf4fn
+FTP HOST:             ftp.bizappal.com
+
+
+It is useful to you read our advertising guide at the url below, some links are not updated so you will be best to also search Google for new directorys to post into.
+
+http://byet.org/advertising/
+
+For a basic guide on how to add/remove adverts on your home page and customers sites, upgrade your customers plans etc, please see:
+
+http://reseller.vista-panel.com/
+
+To add a new reseller TLD domain to your reseller acocunt is easy, you can add unlimited reseller domains for free:
+
+Once you add a reseller domain it becomes a free hosting website where users can register for free hosting at it (with a pre-installed template which you can edit).
+
+Your new reseller domains must have the name servers to :
+
+ns1.byet.org
+ns2.byet.org
+ns3.byet.org
+ns5.byet.org
+
+Or this is OPTIONAL you can register the following IP addreses to ns1.yourdomain.com and ns2.yourdomain.com, then use these name servers.
+
+ns1 : 198.251.86.152
+ns2 : 198.251.86.153
+
+Then add them to your reseller panel using the ADD RESELLER function.
+
+Many veteran resellers frequent the http://byet.net forums, if you have any questions please register here and try posting in the 'MyOwnFreeHost.net' sub forums.
+
+****IMPORTANT****
+
+In your terms of service, should you edit them, we require you to include this line :
+
+"By using our hosting service you are also required to agree with our partners TOS, they can be found here <a href="http://byethost.com/legal.php">Partner Terms</a>"
+
+******************
+
+Best regards
+
+Byethost Internet Group
+
+Please visit and register at these following sites to increase your traffic !!!
+
+http://www.free-webhosts.com/ (Must add a link from http://www.free-webhosts.com/link.php to your home page, then submit your host here : http://www.free-webhosts.com/contact.php , once this is completed the directory will add you normall within 8 weeks .
+
+http://free-host-directory.com  .  We recommend you go there, register, and add your hosting company!
+
+
